@@ -1,9 +1,9 @@
 Crud completo
 
-- criar metas
-- listar metas
+- [x] criar metas
+- [x] listar metas
     - metas realizadas
     - metas abertas
-- marcar/desmarcar metas realizadas
+- [x] marcar/desmarcar metas realizadas
 - remover metas
 - sistema de mensagens
