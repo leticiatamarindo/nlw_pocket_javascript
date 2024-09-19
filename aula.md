@@ -25,7 +25,7 @@ Apresentar os dados
 
 - [x] Variáveis globais e locais
 - [x] Constantes
-
+s
 ## Tipos de dados:
 
 - [x] Strings (texto): "" '' ``
@@ -37,13 +37,14 @@ Apresentar os dados
 - [x] Operadores de atribuição de valor: =
 - [x] Operador de contatenação: +
 - [x] Operadores de comparação: == != <= >= < >
+- [x] spread operator: ...
 
 ## Estruturas de dados:
 
 ### Arrays: 
 
 - [x] Uma lista que contém qualquer tipo de dado
-- [x] Métodos de array: push, find, forEach
+- [x] Métodos de array: push, find, forEach, filter
 
 ### Objetos:
 
