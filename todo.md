@@ -6,4 +6,4 @@ Crud completo
     - [x] metas abertas
 - [x] marcar/desmarcar metas realizadas
 - [x] remover metas
-- sistema de mensagens
+- [x] sistema de mensagens
