@@ -117,7 +117,7 @@ const metasAbertas = async () => {
 }
 
 const deletarMetas = async () => {
-    
+
     if(metas.length == 0) {
         mensagem = "Não existem metas!"
         return
@@ -218,6 +218,6 @@ const start = async () => {
         }
     }
 }
-
+ //ajustando rep
 start()
 
