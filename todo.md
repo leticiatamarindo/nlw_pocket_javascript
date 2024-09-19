@@ -7,3 +7,4 @@ Crud completo
 - [x] marcar/desmarcar metas realizadas
 - [x] remover metas
 - [x] sistema de mensagens
+- [x] persistir dados

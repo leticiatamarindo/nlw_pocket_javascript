@@ -1,0 +1,18 @@
+[
+  {
+    "value": "Tomar 2.5L de água por dia",
+    "checked": false
+  },
+  {
+    "value": "Estudar pelo menos 1h por dia",
+    "checked": false
+  },
+  {
+    "value": "Fazer exercício todos os dias",
+    "checked": false
+  },
+  {
+    "value": "Ler por 30mins",
+    "checked": false
+  }
+]
